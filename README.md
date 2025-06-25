@@ -1,3 +1,13 @@
+## Final Project Report
+
+The detailed project report is available here: [Project_Report.pdf](./docs/Project_Report.pdf)
+
+This report provides an in-depth overview of the project, including the problem statement, data exploration, modeling approach using deep learning on clinical notes, key results, and conclusions.  
+
+Reading the report will give you a comprehensive understanding of the methods used and insights gained, demonstrating the technical and analytical skills applied throughout this project.
+
+
+
 Step 0 : Python environment
 
     All of these scripts were ran with Python 3.7.
