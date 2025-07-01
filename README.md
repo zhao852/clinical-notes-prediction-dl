@@ -1,12 +1,12 @@
 This was a semester-long final project for **CS598 DL4H: Deep Learning for Healthcare**, completed as part of my master’s program in data science.
 
-The detailed project report is available here: [Project_Final_Report.pdf](./docs/Project_Final_Report.pdf)
+The detailed project report is available here: **[Project Final Report (PDF)](./Project_Final_Report.pdf)**
 
 This report provides an in-depth overview of the project, including the problem statement, data exploration, modeling approach using deep learning on clinical notes, key results, and conclusions.  
 
 Reading the report will give you a comprehensive understanding of the methods used and insights gained, demonstrating the technical and analytical skills applied throughout this project.
 
-
+---------
 
 Step 0 : Python environment
 
