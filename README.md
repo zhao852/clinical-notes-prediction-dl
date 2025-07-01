@@ -1,4 +1,4 @@
-# Predicting Patient Outcomes from Clinical Notes Using Deep Learning
+## Predicting Patient Outcomes from Clinical Notes Using Deep Learning
 
 This was a semester-long final project for **CS598 DL4H: Deep Learning for Healthcare**, completed as part of my master’s program in data science.
 
